@@ -1,0 +1,3 @@
+git add <file>
+git commit -m "notes on what you did"
+git push -u origin master //actually updates online repos
