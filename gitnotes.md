@@ -15,3 +15,5 @@ Shows what you are commiting andd if branch up to date
 
 # git branch -m <new name>
 rename branch
+
+Must add and commit files before pulling from master
