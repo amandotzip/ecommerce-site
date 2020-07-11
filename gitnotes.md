@@ -9,3 +9,11 @@ actually updates online repository. master can be replaced with nay branch name
    
 # git ls-tree -r master --name-only
 View all files in master repository
+
+# git status
+Shows what you are commiting andd if branch up to date
+
+# git branch -m <new name>
+rename branch
+
+Must add and commit files before pulling from master
