@@ -13,6 +13,8 @@ View all files in master repository
 # git status
 Shows what you are commiting andd if branch up to date
 
+# git 
+
 # git branch -m <new name>
 rename branch
 
