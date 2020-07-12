@@ -18,4 +18,11 @@ Shows what you are commiting andd if branch up to date
 # git branch -m <new name>
 rename branch
 
+
+Must update local master branch before commiting?
 Must add and commit files before pulling from master
+
+above is current change
+below is incoming change
+# update current branch to master files
+git merge origin 
