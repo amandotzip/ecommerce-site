@@ -24,6 +24,13 @@ body {
   z-index: 10;
 }
 
+/*
+ TODO: Get colors to work for respective background image in carousel
+.carousel-caption-one-col or {
+  /* color: rgb(253, 16, 67); 
+  -webkit-text-stroke: .5px black;
+} */
+
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
